@@ -1,8 +1,8 @@
-Titanium
+Titanium Mobile
 ========
 
-Titanium Mobile trials, test is here.. 
+starsForVoting.js => stars for voting... Like 4 star => ****
+map_myway.js => drawing your path on the map 
 
-Usually working with common js.
 
 Visit my onurcanalp.com for more description
